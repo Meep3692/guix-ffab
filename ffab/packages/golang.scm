@@ -1788,7 +1788,7 @@ specifying command line options.")
     (arguments
      '(#:import-path "github.com/go-git/go-billy/v5"))
     (propagated-inputs (list go-gopkg-in-check-v1 go-golang-org-x-sys
-                             go-github-com-niemeyer-pretty
+                             go-github-com-kr-pretty
                              go-github-com-kr-text))
     (home-page "https://github.com/go-git/go-billy")
     (synopsis "Interface filesystem abstraction for Golang")
