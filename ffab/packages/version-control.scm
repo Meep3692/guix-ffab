@@ -23,6 +23,7 @@
                 #:prefix license:)
   #:use-module (gnu packages base)
   #:use-module (gnu packages golang)
+  #:use-module (gnu packages golang-xyz)
   #:use-module (gnu packages check)
   #:use-module (gnu packages vim)
   #:use-module (guix build-system go)
